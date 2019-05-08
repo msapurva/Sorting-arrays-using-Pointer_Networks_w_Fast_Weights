@@ -2,7 +2,7 @@
 
 - This Project is for course CIS 700: Neural Program Learning @ Syracuse University
 - Professor: Garrett E Katz <gkatz01@syr.edu>
-- Apurva Sharma was responsible for implementing and applying the Noverl Architecture on ** Priority Sorting ** problem **(This Repository)**
+- Apurva Sharma was responsible for implementing and applying the Noverl Architecture on **Priority Sorting** problem **(This Repository)**
 - Khushboo Gupta was responsible for implementing and applying the Novel Architecture on Boundary Detection problem 
 
 
