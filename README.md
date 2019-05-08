@@ -15,12 +15,12 @@ These instructions will get you a copy of the project up and running on your loc
 
 - **Platform**:The code was developed, tested and run on Google Colab
 - **Libraries**: The code uses the following libraries:
-- tensorflow 1.13.1
-- keras 2.2.4
-- numpy 1.16.3  
-- matplotlib 3.0.3
+    - TensorFlow 1.13.1
+    - Keras 2.2.4
+    - NumPy 1.16.3  
+    - Matplotlib 3.0.3
 - **Colab Runtime Configuration**: Please use GPU runtime type by setting it within the Run menu bar option of Google Colab
-- The code uses Eager execution which is a flexible machine learning platform for research and experimentation, providing an intuitive interface, easier debugging and Natural control flow
+- The code uses TensorFlow's Eager Execution which makes it a flexible machine learning platform for research and experimentation, providing an intuitive interface, easier debugging and natural control flow
 
 
 ### Setting up the LSTM and Fast Weights Model
@@ -54,8 +54,7 @@ Ptr Model Config
 For reproducing ablation on input dimension on transformation.A None value leads the system to use the default value of hidden_dimensions. Change this to required integer to get a new value
 - given_fw_x_size=None
 
-Number of epochs to run are present later within the *Train Model - Config and run training* section. Please change the variable *epochsToRun* to update the code
-. Changing other aspects of the code, like *input parameter* would require updates to the main code section
+Number of epochs to run are present later within the *Train Model - Config and run training* section. Please change the variable *epochsToRun* to update epochs to run
 
 
 ## References
