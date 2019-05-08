@@ -8,9 +8,6 @@ Priority Sort has been attempted in the past via Neural Turing Machines (NTM), w
 
 ## Code Usage
 
-These instructions will get you a copy of the project up and running on your local machine for development and testing purposes. See deployment for notes on how to deploy the project on a live system.
-
-
 ### Code Dependencies
 
 - **Platform**:The code was developed, tested and run on Google Colab
@@ -55,6 +52,8 @@ For reproducing ablation on input dimension on transformation.A None value leads
 - given_fw_x_size=None
 
 Number of epochs to run are present later within the *Train Model - Config and run training* section. Please change the variable *epochsToRun* to update epochs to run
+
+Please refer the Experiment Configuration section of each code for full list of configuration options.
 
 
 ## References
